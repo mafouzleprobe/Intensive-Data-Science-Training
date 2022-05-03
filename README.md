@@ -1,4 +1,3 @@
-Scripts for some exercises and mini-projects in the context of DIT's 400h Bootcamp on Python, Data Visualisation, Web Scraping, Natural Language Processing, Data Engineering, Machine Learning, and Deep Learning
 # 400h : Python, Data Visualization, Web Scraping, Natural Language Processing, Data Engineering, Machine Learning, and Deep Learning
 Notebooks and scripts for exercises and mini-projects I am completing as part of Dakar Institute of Technology's Data Science Intensif Bootcamp.
 
